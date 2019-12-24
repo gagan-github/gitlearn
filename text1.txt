@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D2C8-A512
+
+ Directory of C:\Users\Gagan\Desktop\MyGITProject
+
+24-12-2019  16:23    <DIR>          .
+24-12-2019  16:23    <DIR>          ..
+24-12-2019  16:23                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  197,121,785,856 bytes free
